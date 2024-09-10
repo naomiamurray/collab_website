@@ -12,3 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ![Colorado potato beetle](https://www.saferbrand.com/media/Articles/Safer-Brand/controlling-colorado-potato-beetles.jpg)
 
 ![really cool butter dish](https://images.squarespace-cdn.com/content/v1/554da759e4b09fe6f8980b2d/1509077316922-71R4RZRKA3LPD6WG7BI5/IMG_2931.jpg?format=1500w)
+
+![combo!!!!](https://polishpottery.tv/butter-dish-7-inch-lady-bug-pomenade-h9252k-big_2.jpg)
